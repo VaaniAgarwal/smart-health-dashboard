@@ -1,6 +1,12 @@
+venv/
 data/raw/*
 data/processed/*
-venv/
 models/*
-*.pyc
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.streamlit/
+.DS_Store
+Thumbs.db
